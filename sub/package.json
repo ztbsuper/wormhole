@@ -1,0 +1,23 @@
+{
+  "name": "Subscriber",
+  "version": "0.0.1",
+  "description": "Subscriber",
+  "main": "server.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ztbsuper/wormhole"
+  },
+  "author": "ztbsuper@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ztbsuper/wormhole/issues"
+  },
+  "homepage": "https://github.com/ztbsuper/wormhole",
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "amqp": "^0.2.0"
+  }
+}
